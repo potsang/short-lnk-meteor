@@ -19,5 +19,8 @@
   },
   "devDependencies": {
     "sass-lint": "^1.10.2"
+  },
+  "engines": {
+    "node": "4.7.3"
   }
 }
